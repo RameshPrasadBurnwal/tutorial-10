@@ -1,2 +1,2 @@
-Hi Ramesh,
-How is your learning going
+Hello Ramesh,
+Your are learning git and git hub with cloud shell
