@@ -1,2 +1,4 @@
 Hello Ramesh,
-Your are learning git and git hub with cloud shell
+Your are learning git and git hub
+Hello Rahul,
+You are preparing for full stack developer 
