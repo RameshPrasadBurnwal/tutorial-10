@@ -1,5 +1,4 @@
 Hello Ramesh,
 Your are learning git and git hub
-Hello Rahul,
 You are preparing for full stack developer 
 Hi Rohit, How is your learning going
